@@ -1,3 +1,4 @@
+
 Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
 
 Gli viene incontro di corsa CATESBY
@@ -5,7 +6,7 @@ Gli viene incontro di corsa CATESBY
 CATESBY 
 	
 
-Correte, aiuto, signor di Norfolk!
+Alla riscossa, milord di Norfolk, alla riscossa! [giusta]
 
 Il re compie prodigi sovrumani
 
@@ -61,3 +62,4 @@ Il mio regno per un cavallo!
 (Escono tutti)l mio regno per un cavallo!
 
 [Escono].
+
