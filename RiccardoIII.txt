@@ -1,4 +1,5 @@
 
+
 Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
 
 Gli viene incontro di corsa CATESBY
@@ -49,7 +50,7 @@ RICCARDO
 
 Ho messo la mia vita come posta
 
-per un colpo di dadi, e starò al gioco.
+E sopporterò il rischio del dado: [giusta]
 
 Credo ci siano sei Richmond sul campo;
 
